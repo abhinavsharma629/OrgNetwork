@@ -21,13 +21,16 @@
    - [x] Many more api's then the above features are available.
    - [x] Every work done using socket can also be done in RESTful way.
    
-   ***
-   
-   #### Future Implementation for React:
-   - [ ] Notification Route Panel.
-   - [ ] Add internal switch Notification Badge.
   
   ___
   
   ## Architecture used:
   <img src="./Architecture.png" />
+  
+  
+  
+  ***
+   
+   #### Future Implementation for React:
+   - [ ] Notification Route Panel.
+   - [ ] Add internal switch Notification Badge.
