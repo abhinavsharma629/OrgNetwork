@@ -15,9 +15,9 @@
             dept.) can read the request, but only the assigned user has the permission to Approve or reject
             the Request.
    - [x] After Approval the Request shouldn't be shown to the users in assigned department.
-   - [x] There should be a notification window which shows the notification rea- [ ]time (notification on
+   - [x] There should be a notification window which shows the notification real-time (notification on
             form approval or rejection or new Approval request).
-   - [x] Each and every Interactions here happens in rea- [ ]time (not RESTful way).
+   - [x] Each and every Interactions here happens in real-time (not RESTful way).
    - [x] Many more api's then the above features are available.
    - [x] Every work done using socket can also be done in RESTful way.
    
